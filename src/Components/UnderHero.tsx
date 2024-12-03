@@ -7,7 +7,7 @@ const RegisterPrompt = ({ title, description, icon, className, iconClass }) => {
 // Define default props
     RegisterPrompt.defaultProps = {
         title: "here insert title", // No title by default
-        description: "Aby bylo možné využívat služeb Tenderixe, je nezbytné provést jednoduchou registraci.",
+        description: "here we insrest the text",
         icon: null,
         className: "",
         iconClass: ""
