@@ -30,7 +30,7 @@ const NewsPage: React.FC = () => {
 
     return (
         <div className="news-page">
-            <h1>Latest News</h1>
+            <h1>Žhavé novinky</h1>
             <div className="news-list">
                 {currentNews.map((news) => (
                     <NewsItem
