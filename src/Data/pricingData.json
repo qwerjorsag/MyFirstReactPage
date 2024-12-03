@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Essential",
+    "price": "29 USD/měs",
+    "description": "Existuje mnoho variant, ale většina trpěla.",
+    "features": [
+      "Neomezené texty",
+      "Consectetur adipiscing elit",
+      "Exceptuer sint occaecat cupidatat",
+      "Officia deserunt mollit anim"
+    ],
+    "isPopular": false
+  },
+  {
+    "name": "Perform",
+    "price": "49 USD/měs",
+    "description": "Zlatá střední cesta",
+    "features": [
+      "Neomezené texty",
+      "Consectetur adipiscing elit",
+      "Exceptuer sint occaecat cupidatat",
+      "Officia deserunt mollit anim",
+      "Předem definované části"
+    ],
+    "isPopular": true
+  },
+  {
+    "name": "Enterprise",
+    "price": "79 USD/měs",
+    "description": "Rolls Royce mezi plány",
+    "features": [
+      "Neomezené texty",
+      "Consectetur adipiscing elit",
+      "Exceptuer sint occaecat cupidatat",
+      "Officia deserunt mollit anim",
+      "Předem definované části",
+      "Bez opakování"
+    ],
+    "isPopular": false
+  }
+]

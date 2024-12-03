@@ -1,0 +1,40 @@
+.register-prompt {
+    display: flex;
+    align-items: center;
+
+    padding: 20px;
+    border-radius: 10px;
+    color: #ffffff;
+
+
+
+}
+
+.icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #ffb74d, #ff8a65); /* Gradient background */
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+}
+
+.icon {
+    color: #ffffff;
+    font-size: 40px; /* Adjust icon size */
+}
+
+.text-container h2 {
+    margin: 0;
+    text-align: left;
+    font-size: 24px;
+    color: #d0afff; /* Light purple color for title */
+}
+
+.text-container p {
+    margin: 5px 0 0;
+    font-size: 16px;
+    color: #b0b0b0; /* Light grey for the paragraph */
+}

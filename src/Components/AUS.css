@@ -1,0 +1,18 @@
+
+
+.team-member {
+    display: flex;
+    margin-bottom: 20px; /* Space between team members */
+    align-items: flex-start;
+    }
+
+.team-member-image {
+    width: 100px; /* Adjust size */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 15px; /* Space between image and text */
+}
+
+.team-member-info {
+
+    text-align: justify;  ;
+}

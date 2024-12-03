@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "title": "New React Update Released",
+    "text": "React has released a new version with exciting features and improvements.",
+    "date": "2024-12-01",
+    "author": "John Doe"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Trends in 2024",
+    "text": "Explore the latest JavaScript frameworks and tools gaining popularity this year.",
+    "date": "2024-11-28",
+    "author": "Jane Smith"
+  },
+  {
+    "id": 3,
+    "title": "AI in Web Development",
+    "text": "Learn how artificial intelligence is shaping the future of web development.",
+    "date": "2024-11-25",
+    "author": "Michael Lee"
+  },
+  {
+    "id": 4,
+    "title": "Top CSS Frameworks for 2024",
+    "text": "A comparison of the top CSS frameworks you should consider for your next project.",
+    "date": "2024-11-20",
+    "author": "Emily Johnson"
+  },
+  {
+    "id": 5,
+    "title": "Understanding TypeScript",
+    "text": "An introductory guide to using TypeScript effectively in modern web apps.",
+    "date": "2024-11-15",
+    "author": "Chris Martin"
+  },
+  {
+    "id": 6,
+    "title": "Next.js 14: What’s New?",
+    "text": "Discover the latest features in Next.js 14 and how they can boost your productivity.",
+    "date": "2024-11-10",
+    "author": "Sarah Brown"
+  },
+  {
+    "id": 7,
+    "title": "Web3 and Decentralized Apps",
+    "text": "The rise of Web3 and its impact on creating decentralized applications.",
+    "date": "2024-11-05",
+    "author": "Alex White"
+  },
+  {
+    "id": 8,
+    "title": "Responsive Design Best Practices",
+    "text": "Tips for creating responsive designs that work seamlessly across all devices.",
+    "date": "2024-10-30",
+    "author": "Laura Davis"
+  },
+  {
+    "id": 9,
+    "title": "Serverless Architectures",
+    "text": "Learn about the benefits and challenges of serverless architecture in cloud computing.",
+    "date": "2024-10-25",
+    "author": "Robert Wilson"
+  },
+  {
+    "id": 10,
+    "title": "SEO Techniques for 2024",
+    "text": "Best SEO practices to improve your website's visibility in search engines.",
+    "date": "2024-10-20",
+    "author": "Sophia Garcia"
+  },
+
+
+    {
+      "id": 11,
+      "title": "New Study Links Exercise to Longevity",
+      "text": "Researchers have found that regular exercise significantly increases life expectancy.",
+      "date": "2024-11-28",
+      "author": "Alice Johnson"
+    },
+    {
+      "id": 12,
+      "title": "Electric Cars Take Over the Market",
+      "text": "Electric vehicles now account for 50% of new car sales in major markets.",
+      "date": "2024-11-27",
+      "author": "Bob Lee"
+    },
+    {
+      "id": 13,
+      "title": "Mars Mission Successfully Launches",
+      "text": "The latest Mars rover has launched and is expected to land in 2025.",
+      "date": "2024-11-26",
+      "author": "Carol Adams"
+    },
+    {
+      "id": 14,
+      "title": "New Breakthrough in Cancer Research",
+      "text": "Scientists have developed a promising new treatment for aggressive cancers.",
+      "date": "2024-11-25",
+      "author": "David Clarke"
+    },
+    {
+      "id": 15,
+      "title": "Major Cyberattack Affects Millions",
+      "text": "A massive cyberattack on a major company has exposed personal data of millions.",
+      "date": "2024-11-24",
+      "author": "Eve Sanders"
+    },
+    {
+      "id": 16,
+      "title": "World Cup 2024: Underdogs Triumph",
+      "text": "The underdog team clinches a surprising victory in the final match.",
+      "date": "2024-11-23",
+      "author": "Frank Miller"
+    },
+    {
+      "id": 17,
+      "title": "Tech Startup Raises Record Funding",
+      "text": "A new AI-focused startup has raised a record $1 billion in funding.",
+      "date": "2024-11-22",
+      "author": "Grace Kelly"
+    },
+    {
+      "id": 18,
+      "title": "New Smartphone Features Revolutionize Tech",
+      "text": "The latest smartphone model introduces innovative features that set it apart.",
+      "date": "2024-11-21",
+      "author": "Henry Ford"
+    },
+    {
+      "id": 19,
+      "title": "Rare Astronomical Event Observed",
+      "text": "Astronomers capture stunning images of a rare celestial phenomenon.",
+      "date": "2024-11-20",
+      "author": "Ivy Nguyen"
+    },
+    {
+      "id": 20,
+      "title": "Innovative Housing Solutions for Urban Areas",
+      "text": "Architects design modular homes to address urban housing shortages.",
+      "date": "2024-11-19",
+      "author": "Jack Roberts"
+    },
+    {
+      "id": 21,
+      "title": "New Space Station Module Installed",
+      "text": "A new state-of-the-art module has been added to the International Space Station.",
+      "date": "2024-11-18",
+      "author": "Karen White"
+    },
+    {
+      "id": 22,
+      "title": "Revolutionary Battery Technology Announced",
+      "text": "A new battery technology promises longer life and faster charging times.",
+      "date": "2024-11-17",
+      "author": "Leo Turner"
+    },
+    {
+      "id": 23,
+      "title": "Major Discovery in Marine Biology",
+      "text": "Scientists discover a new deep-sea species that could reshape our understanding of marine life.",
+      "date": "2024-11-16",
+      "author": "Mia Wilson"
+    },
+    {
+      "id": 24,
+      "title": "Global Art Exhibition Opens in Paris",
+      "text": "The largest global art exhibition of the decade opens in Paris.",
+      "date": "2024-11-15",
+      "author": "Noah Brown"
+    },
+    {
+      "id": 25,
+      "title": "New Policy to Combat Air Pollution",
+      "text": "A new policy aims to reduce air pollution by 30% in the next decade.",
+      "date": "2024-11-14",
+      "author": "Olivia Green"
+    },
+    {
+      "id": 26,
+      "title": "Groundbreaking Renewable Energy Project",
+      "text": "A new renewable energy project could power millions of homes.",
+      "date": "2024-11-13",
+      "author": "Paul Baker"
+    },
+    {
+      "id": 27,
+      "title": "Historic Peace Agreement Signed",
+      "text": "Two nations have signed a historic peace agreement ending years of conflict.",
+      "date": "2024-11-12",
+      "author": "Quinn Harris"
+    },
+    {
+      "id": 28,
+      "title": "Tech Giant Unveils New Operating System",
+      "text": "The new operating system promises enhanced security and user-friendly features.",
+      "date": "2024-11-11",
+      "author": "Rachel Carter"
+    },
+    {
+      "id": 29,
+      "title": "Breakthrough in Quantum Computing",
+      "text": "Quantum computing takes a leap forward with a major breakthrough.",
+      "date": "2024-11-10",
+      "author": "Sam Reed"
+    },
+    {
+      "id": 30,
+      "title": "Wildlife Conservation Efforts See Success",
+      "text": "Populations of endangered species are rebounding due to conservation efforts.",
+      "date": "2024-11-09",
+      "author": "Tina Lopez"
+    },
+    {
+      "id": 31,
+      "title": "Medical Innovation Saves Lives",
+      "text": "A new medical device is saving lives in emergency situations.",
+      "date": "2024-11-08",
+      "author": "Uma Patel"
+    },
+    {
+      "id": 32,
+      "title": "Global Education Summit Held",
+      "text": "Leaders discuss the future of global education at the annual summit.",
+      "date": "2024-11-07",
+      "author": "Victor Chen"
+    },
+    {
+      "id": 33,
+      "title": "Artificial Intelligence in Healthcare",
+      "text": "AI technologies are transforming healthcare systems worldwide.",
+      "date": "2024-11-06",
+      "author": "Wendy Scott"
+    },
+    {
+      "id": 34,
+      "title": "New Renewable Energy Record Set",
+      "text": "Renewable energy sources meet 80% of global demand for the first time.",
+      "date": "2024-11-05",
+      "author": "Xander Hall"
+    },
+    {
+      "id": 35,
+      "title": "Global Tourism Bounces Back",
+      "text": "Tourism rebounds with record numbers of travelers this year.",
+      "date": "2024-11-04",
+      "author": "Yara Kim"
+    },
+    {
+      "id": 36,
+      "title": "New Breakthrough in Genetics",
+      "text": "Scientists discover genes linked to increased resilience to diseases.",
+      "date": "2024-11-03",
+      "author": "Zachary Evans"
+    },
+    {
+      "id": 37,
+      "title": "Electric Planes Take Flight",
+      "text": "The first commercial electric planes successfully complete test flights.",
+      "date": "2024-11-02",
+      "author": "Amelia Stone"
+    },
+    {
+      "id": 38,
+      "title": "Historic Spacewalk Completed",
+      "text": "Astronauts complete the first all-female spacewalk on the moon.",
+      "date": "2024-11-01",
+      "author": "Brian Cole"
+    },
+    {
+      "id": 39,
+      "title": "Virtual Reality in Education",
+      "text": "VR technologies are enhancing learning experiences for students.",
+      "date": "2024-10-31",
+      "author": "Clara Ortiz"
+    },
+    {
+      "id": 40,
+      "title": "New Discovery in Archaeology",
+      "text": "Archaeologists uncover a lost ancient city with groundbreaking findings.",
+      "date": "2024-10-30",
+      "author": "Derek King"
+    }
+  ]

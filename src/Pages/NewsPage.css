@@ -1,0 +1,117 @@
+/* General Page Styling */
+.news-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content horizontally */
+    padding: 20px;
+    background-color: #1a1a1a; /* Dark background */
+    font-family: Arial, sans-serif;
+}
+
+/* News List Container */
+.news-list {
+    width: 80%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Individual News Item Styling */
+.news-item {
+    width: 100%;
+    background-color: #333;
+    color: #f9f9f9;
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Pagination Styling */
+.pagination-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.pagination {
+    display: flex;
+    gap: 10px;
+}
+
+.pagination-button {
+    padding: 10px 15px;
+    border: none;
+    background-color: #444;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+}
+
+.pagination-button:hover {
+    background-color: #666;
+}
+
+.pagination-button:disabled {
+    background-color: #333;
+    cursor: not-allowed;
+}
+
+.pagination-button.active {
+    background-color: #6C63FF;
+    color: #fff;
+}
+
+/* Items Per Page Dropdown Styling */
+.items-per-page {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.items-per-page label {
+    font-size: 0.9rem;
+    color: #ffffff;
+}
+
+#items-per-page {
+
+    padding: 8px 12px;
+    font-size: 0.9rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #6b4bff; /* Main dropdown color */
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#items-per-page:hover {
+    border-color: #6C63FF;
+    background-color: #e6e6e6;
+    color: black;
+}
+
+#items-per-page:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(108, 99, 255, 0.8);
+}
+
+#items-per-page option {
+        padding: 10px;
+    border-radius: 10px;
+    background-color: #6C63FF;
+    color: white;
+    transition: all 0.3s ease;
+}
+
+#items-per-page option:hover {
+    background-color: #6C63FF;
+    color: #fff;
+    cursor: pointer;
+}

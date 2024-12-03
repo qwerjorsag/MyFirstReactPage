@@ -1,0 +1,165 @@
+.App {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+div {margin-outside: 10%;}
+
+h2 {text-align: center}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: #fff;
+  background-color: #111;
+
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  grid-template-columns: repeat(3, minmax(200px, 1fr))
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 50px 20px;
+  border-radius: 10px;
+}
+
+/* Features Section */
+.features {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 6%;
+}
+.feature {
+  padding: 20px;
+  border-radius: 10px;
+  width: calc(25% - 20px);
+  text-align: center;
+}
+a {
+  all: unset;
+  cursor: pointer;
+
+
+}
+/* Resources Section */
+.resources {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 50px;
+}
+.resource-item {
+  background: #222;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Technology Section */
+.technology {
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+/* About Us Section */
+.about-us {
+  display: flex;
+  gap: 20px;
+  margin-top: 50px;
+}
+.team-member {
+  background: #222;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.team-member img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+/* Useful Links Section */
+.useful-links {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(200px, 1fr));
+  justify-content: center;
+  gap: 20px;
+  margin-top: 50px;
+}
+.link-placeholder {
+  width: 200px;
+  height: 200px;
+  resize: vertical;
+  align-self: center;
+
+  background: #333;
+  border-radius: 10px;
+}
+
+/* Disclaimer Section */
+.disclaimer {
+  background: #222;
+  align-self: center;
+  text-align: -moz-center;
+  padding: 20px;
+  margin-bottom: 5%;
+  border-radius: 10px;
+  margin-top: 50px;
+  font-size: 0.9em;
+  color: #bbb;
+}
+
+
+
+
+
+
+
